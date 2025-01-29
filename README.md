@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I served 8 years in the Marine Corps.
 - [ ] < Certified Checkbox Unchecker
+- <a rel="me" href="https://infosec.exchange/@mubix">@mubix</a> on Infosec.Exchange .
